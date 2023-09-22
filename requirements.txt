@@ -1,5 +1,2 @@
 flask
-statsmodels
-numpy
-pandas
-gunicorn
+json
